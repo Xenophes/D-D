@@ -1,0 +1,85 @@
+{
+  "name": "kotw",
+  "title": "Knights of the Wind",
+  "description": null,
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Custom Features",
+      "entity": "Item",
+      "name": "custom-features",
+      "path": "packs/custom-features.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\Xenophes\\AppData\\Local\\FoundryVTT\\Data\\worlds\\kotw\\packs\\custom-features.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "My DDB Spells",
+      "name": "ddb-spells",
+      "package": "world",
+      "path": "packs/ddb-spells.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Xenophes\\AppData\\Local\\FoundryVTT\\Data\\worlds\\kotw\\packs\\ddb-spells.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "My DDB Items",
+      "name": "ddb-items",
+      "package": "world",
+      "path": "packs/ddb-items.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Xenophes\\AppData\\Local\\FoundryVTT\\Data\\worlds\\kotw\\packs\\ddb-items.db",
+      "private": false
+    },
+    {
+      "entity": "Actor",
+      "label": "My DDB Monsters",
+      "name": "ddb-monsters",
+      "package": "world",
+      "path": "packs/ddb-monsters.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Xenophes\\AppData\\Local\\FoundryVTT\\Data\\worlds\\kotw\\packs\\ddb-monsters.db",
+      "private": false
+    },
+    {
+      "label": "Archived Actors (KOTW)",
+      "entity": "Actor",
+      "name": "archived-actors-kotw",
+      "path": "packs/archived-actors-kotw.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\Xenophes\\AppData\\Local\\FoundryVTT\\Data\\worlds\\kotw\\packs\\archived-actors-kotw.db",
+      "private": false
+    },
+    {
+      "label": "Circle of the Shepherd, Houndmaster Variant",
+      "entity": "Item",
+      "name": "circle-of-the-shepherd-houndmaster-variant",
+      "path": "packs/circle-of-the-shepherd-houndmaster-variant.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\Xenophes\\AppData\\Local\\FoundryVTT\\Data\\worlds\\kotw\\packs\\circle-of-the-shepherd-houndmaster-variant.db",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "andreas-rocha-hiddenwatefall02.jpg",
+  "coreVersion": "0.8.6",
+  "nextSession": "2021-06-05T23:00:00.000Z",
+  "resetKeys": false,
+  "safeMode": false
+}
