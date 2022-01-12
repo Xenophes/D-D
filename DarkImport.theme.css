@@ -1,6 +1,6 @@
 #app-mount {
     background: url("https://raw.githubusercontent.com/Xenophes/D-D/master/dark-theme-1440.png")
-        fill/cover no-repeat;
+        stretch/cover no-repeat;
 }
 .homeIcon-r0w4ny {
     background: url("https://raw.githubusercontent.com/AccraZed/YoRHA-UI-BetterDiscord/master/assets/icons/home_dark-theme.png")
